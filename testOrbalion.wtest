@@ -1,0 +1,19 @@
+import orbalion.*
+test "una tecnologia esta activa" {
+  const tecnologia = new Tecnologia(
+    nombre = "Escudo",
+    valorEnergetico = 100,
+    activa = true
+  )
+
+  assert.that(tecnologia.estaActiva())
+}
+test "una tecnologia esta inactiva" {
+  const tecnologia = new Tecnologia(
+    nombre = "Escudo",
+    valorEnergetico = 100,
+    activa = false
+  )
+
+  assert.notThat(tecnologia.estaActiva())
+}

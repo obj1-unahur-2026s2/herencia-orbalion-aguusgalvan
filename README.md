@@ -4,7 +4,7 @@
 En el planeta **Zyntrion**, tres grandes razas compiten en el deporte más seguido de toda la galaxia: **el Orbalion**.  
 Un juego de precisión y energía, donde los atletas canalizan la fuerza gravitacional del entorno para controlar esferas de plasma luminoso.
 
-La **Federación de Orbalion de Zyntrion (FOZ)** desea desarrollar un sistema para gestionar equipos, entrenadores y tecnologías, con el fin de analizar el rendimiento de cada raza en los torneos galácticos.
+La **Federación de Orbalion de Zyntrion (FOZ)** desea desarrollar un sistema para gestionar equipos, entrenadores y tecnologías, con el fin de analizar el rendimciento de cada raza en los torneos galácticos.
 
 ---
 
